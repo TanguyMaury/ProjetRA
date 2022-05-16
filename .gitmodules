@@ -1,0 +1,3 @@
+[submodule "SpeechDenoisingWithDeepFeatureLosses"]
+	path = SpeechDenoisingWithDeepFeatureLosses
+	url = https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses.git
